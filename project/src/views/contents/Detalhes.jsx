@@ -4,11 +4,15 @@ const Detalhes = props => (
     <div>
         <h1>Detalhes</h1>
         
-        <h2>Um jovem programador é atormentado por estranhos pesadelos nos quais sempre está 
-            conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a 
-            levantar dúvidas sobre a realidade. E quando encontra os misteriosos Morpheus e Trinity, ele descobre que é vítima do
-             Matrix, um sistema inteligente e artificial que manipula a mente das pessoas e cria a ilusão de um mundo real enquanto 
-             usa os cérebros e corpos dos indivíduos para produzir energia.</h2>
+        <h2>Ana Leal é uma mulher alegre e otimista. Está feliz, pois finalmente entregaram a ela as escrituras de sua casa,
+             uma propriedade pequena que, com sua melhor amiga Jennifer, conseguiu obter com muito esforço;
+            mas um desastre destrói sua casa e Ana perde tudo o que tem.</h2>
+            <h2>Enquanto isso, conhecemos Fernando Lascuráin, um prestigiado empresário que se lembra com tristeza que há um ano morreu sua esposa. 
+   Fernando é o pai de sete filhos: Fanny de 19 anos, Nando de 17 anos, Alicia de 14 anos, Sebastião de 11 anos,
+   os gêmeos Alex e Guille de 8 anos e a pequena Luz de 5 anos. 
+   Estes sete “pequenos” se encarregaram de fazer a vida de dezenas de babás impossível, 
+    mas Fernando precisa urgentemente de uma babá que cuide de seus filhos</h2>
+    <h2>O amor entre Ana e Fernando é inevitável, mas precisarão de um coração forte que os ajude a superar cada uma das dificuldades que o destino preparou para eles. </h2>
     </div>
 
 )
